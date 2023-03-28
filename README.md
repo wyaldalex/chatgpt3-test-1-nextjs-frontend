@@ -14,6 +14,6 @@
 
 ## Companion project
 
-"https://github.com/wyaldalex/chatgpt3-test-1-nextjs-backend".
+"https://github.com/wyaldalex/chatgpt3-test-1-java-backend".
 
 
